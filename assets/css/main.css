@@ -1,0 +1,182 @@
+body  {
+	background-image: url('../img/style2.jpg'); 
+	background-repeat: repeat;
+	background-color: #FFFFFF;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+
+.date {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	margin-left : 5;
+}
+
+
+HR {
+	color : #FF8000;
+	margin-bottom : 1;
+	margin-left : 1;
+	margin-right : 1;
+	margin-top : 1;
+	padding-bottom : 1;
+	padding-left : 1;
+	padding-right : 1;
+	padding-top : 1;
+}
+
+H1 {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	margin : 1 1 1 1;
+	padding : 1 1 1 1;
+	font-size : 20px;
+}
+
+.maintext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	padding : 2 5 2 5;
+	text-align : justify;
+	margin-bottom : 10;
+	margin-left : 0;
+	margin-right : 0;
+	margin-top : 10;
+	text-indent : 50px;
+	font-size : 12px;
+}
+
+A, A:LINK {
+	color : Navy;
+	text-decoration : none;
+
+}
+
+A:HOVER {
+	text-decoration : underline;
+}
+
+
+.right {
+	text-align : right;
+}
+
+
+P, TD, LI, UL {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+
+Address {
+	color : #ff0000;
+	font-weight : bold;
+}
+
+
+.star {
+	color : #ff0000;
+	font-weight : bold;
+}
+
+
+p.bigshow, td.bigshow {
+	padding : 0 2 0 2;
+	text-align : justify;
+	margin-left : 0;
+	margin-right : 0;
+	margin-top : 0;
+	padding-bottom : 0;
+	text-indent : 30;
+} 
+
+
+.show {
+	padding : 0 2 0 2;
+	margin-left : 0;
+	margin-right : 0;
+	margin-top : 0;
+	padding-bottom : 0;
+	text-indent : 30;
+} 
+
+
+.big {
+	color : black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+}
+
+.middle {
+	color : black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.small {
+	font-size: 8pt;
+}
+
+TR.Title td {
+   text-align: center;
+   font: bold 8pt;
+   background-color: #00FFFF;
+}
+
+
+.left {
+	margin-left : 17;
+}
+
+
+
+.comm {
+	background: #FFFF00;
+	margin-left: 130pt;
+	margin-bottom : 0;
+	margin-top : 0;
+	padding-bottom : 1pt;
+	padding-top : 1pt;
+	padding-left : 3pt;
+	padding-right : 1pt;
+	line-height : 14pt;
+	text-indent : 30;
+}
+
+div.comm, p {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+span.comm, p {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+div.comm, td {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+span.comm, td {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+
+td {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+
+TD.punctquote {
+	background-color: #F6F6F6;
+	border: #606060;
+	border-style: dashed;
+	border-width: 1px
+}
+
+.maps {
+	display : none;
+}

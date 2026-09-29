@@ -1,0 +1,98 @@
+BODY
+{
+	background-image: url(../img/style2.jpg);
+	background-repeat: repeat;
+	background-color: #FFFFFF;
+	margin-left: 25px;
+}
+
+.show {
+	margin-bottom : 0;
+	margin-top : 0;
+	padding-bottom : 0;
+	padding-top : 5;
+	text-indent : 30;
+	font-size : 12px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.corresp {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : RED;
+	font-size : 10px;
+	font-weight: normal; 
+} 
+
+.let {
+	color : RED;
+	font-weight: bold; 
+} 
+
+.srch {
+	color : RED;
+	font-weight: bold; 
+	font-style: italic; 
+} 
+
+
+
+p.corresp {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : RED;
+	font-size : 10px;
+	font-weight: normal; 
+} 
+
+
+a.corresp {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	color: #000080; 
+	text-decoration: none; 
+	font-size: 10px; 
+	font-weight: bold;
+} 
+
+.corresp a {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	color: #000080; 
+	text-decoration: none; 
+	font-size: 10px; 
+	font-weight: bold;
+} 
+
+
+.comm {
+	background: #C0C0C0;
+	margin-left: 130pt;
+	margin-bottom : 0;
+	margin-top : 0;
+	padding-bottom : 1pt;
+	padding-top : 1pt;
+	padding-left : 3pt;
+	padding-right : 1pt;
+	line-height : 14pt;
+	text-indent : 30;
+	font-style: italic; 
+}
+
+div.comm, p {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+span.comm, p {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+div.comm, td {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+span.comm, td {
+	margin-bottom : 0;
+	margin-top : 0;
+}
+
+

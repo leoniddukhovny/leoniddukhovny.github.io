@@ -1,0 +1,961 @@
+{
+  "main_archive": "https://web.archive.org/web/20241112033618/http://bards.ru/archives/author.php?id=1857",
+  "pages": [
+    {
+      "file": "index.html",
+      "source": "http://bards.ru/archives/author.php?id=1857",
+      "retrieval": {}
+    },
+    {
+      "file": "by-year.html",
+      "source": "http://bards.ru/archives/author.php?id=1857&sortyear=1",
+      "retrieval": {}
+    },
+    {
+      "file": "songs/3383.html",
+      "source": "http://bards.ru/archives/part.php?id=3383",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=3383",
+        "retrieved": "https://web.archive.org/web/20241127055501id_/http://www.bards.ru/archives/part.php?id=3383"
+      }
+    },
+    {
+      "file": "songs/63264.html",
+      "source": "http://bards.ru/archives/part.php?id=63264",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63264",
+        "retrieved": "https://web.archive.org/web/20230422130632id_/http://www.bards.ru/archives/part.php?id=63264"
+      }
+    },
+    {
+      "file": "songs/3384.html",
+      "source": "http://bards.ru/archives/part.php?id=3384",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=3384",
+        "retrieved": "https://web.archive.org/web/20230423235808id_/http://www.bards.ru/archives/part.php?id=3384"
+      }
+    },
+    {
+      "file": "songs/63258.html",
+      "source": "http://bards.ru/archives/part.php?id=63258",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63258",
+        "retrieved": "https://web.archive.org/web/20230423095633id_/http://www.bards.ru/archives/part.php?id=63258"
+      }
+    },
+    {
+      "file": "songs/63260.html",
+      "source": "http://bards.ru/archives/part.php?id=63260",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63260",
+        "retrieved": "https://web.archive.org/web/20230424043724id_/http://www.bards.ru/archives/part.php?id=63260"
+      }
+    },
+    {
+      "file": "songs/63250.html",
+      "source": "http://bards.ru/archives/part.php?id=63250",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63250",
+        "retrieved": "https://web.archive.org/web/20230424040426id_/http://www.bards.ru/archives/part.php?id=63250"
+      }
+    },
+    {
+      "file": "songs/63259.html",
+      "source": "http://bards.ru/archives/part.php?id=63259",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63259",
+        "retrieved": "https://web.archive.org/web/20230423213236id_/http://www.bards.ru/archives/part.php?id=63259"
+      }
+    },
+    {
+      "file": "songs/64960.html",
+      "source": "http://bards.ru/archives/part.php?id=64960",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64960",
+        "retrieved": "https://web.archive.org/web/20230422130630id_/http://www.bards.ru/archives/part.php?id=64960"
+      }
+    },
+    {
+      "file": "songs/63257.html",
+      "source": "http://bards.ru/archives/part.php?id=63257",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63257",
+        "retrieved": "https://web.archive.org/web/20250327194731id_/http://www.bards.ru/archives/part.php?id=63257"
+      }
+    },
+    {
+      "file": "songs/65001.html",
+      "source": "http://bards.ru/archives/part.php?id=65001",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65001",
+        "retrieved": "https://web.archive.org/web/20230423095638id_/http://www.bards.ru/archives/part.php?id=65001"
+      }
+    },
+    {
+      "file": "songs/64991.html",
+      "source": "http://bards.ru/archives/part.php?id=64991",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64991",
+        "retrieved": "https://web.archive.org/web/20230424045231id_/http://www.bards.ru/archives/part.php?id=64991"
+      }
+    },
+    {
+      "file": "songs/63253.html",
+      "source": "http://bards.ru/archives/part.php?id=63253",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63253",
+        "retrieved": "https://web.archive.org/web/20230424040428id_/http://www.bards.ru/archives/part.php?id=63253"
+      }
+    },
+    {
+      "file": "songs/63251.html",
+      "source": "http://bards.ru/archives/part.php?id=63251",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63251",
+        "retrieved": "https://web.archive.org/web/20250907230634id_/http://www.bards.ru/archives/part.php?id=63251"
+      }
+    },
+    {
+      "file": "songs/64962.html",
+      "source": "http://bards.ru/archives/part.php?id=64962",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64962",
+        "retrieved": "https://web.archive.org/web/20250315080300id_/http://bards.ru/archives/part.php?id=64962"
+      }
+    },
+    {
+      "file": "songs/64973.html",
+      "source": "http://bards.ru/archives/part.php?id=64973",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64973",
+        "retrieved": "https://web.archive.org/web/20260206201055id_/http://www.bards.ru/archives/part.php?id=64973"
+      }
+    },
+    {
+      "file": "songs/65219.html",
+      "source": "http://bards.ru/archives/part.php?id=65219",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65219",
+        "retrieved": "https://web.archive.org/web/20230424043725id_/http://www.bards.ru/archives/part.php?id=65219"
+      }
+    },
+    {
+      "file": "songs/65466.html",
+      "source": "http://bards.ru/archives/part.php?id=65466",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65466",
+        "retrieved": "https://web.archive.org/web/20260504165553id_/http://bards.ru/archives/part.php?id=65466"
+      }
+    },
+    {
+      "file": "songs/63252.html",
+      "source": "http://bards.ru/archives/part.php?id=63252",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63252",
+        "retrieved": "https://web.archive.org/web/20250316135655id_/http://bards.ru/archives/part.php?id=63252"
+      }
+    },
+    {
+      "file": "songs/65287.html",
+      "source": "http://bards.ru/archives/part.php?id=65287",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65287",
+        "retrieved": "https://web.archive.org/web/20230423214735id_/http://www.bards.ru/archives/part.php?id=65287"
+      }
+    },
+    {
+      "file": "songs/63256.html",
+      "source": "http://bards.ru/archives/part.php?id=63256",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63256",
+        "retrieved": "https://web.archive.org/web/20231205122744id_/http://www.bards.ru/archives/part.php?id=63256"
+      }
+    },
+    {
+      "file": "songs/64956.html",
+      "source": "http://bards.ru/archives/part.php?id=64956",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64956",
+        "retrieved": "https://web.archive.org/web/20230423235808id_/http://www.bards.ru/archives/part.php?id=64956"
+      }
+    },
+    {
+      "file": "songs/65008.html",
+      "source": "http://bards.ru/archives/part.php?id=65008",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65008",
+        "retrieved": "https://web.archive.org/web/20230423095633id_/http://www.bards.ru/archives/part.php?id=65008"
+      }
+    },
+    {
+      "file": "songs/64971.html",
+      "source": "http://bards.ru/archives/part.php?id=64971",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64971",
+        "retrieved": "https://web.archive.org/web/20230424043724id_/http://www.bards.ru/archives/part.php?id=64971"
+      }
+    },
+    {
+      "file": "songs/65007.html",
+      "source": "http://bards.ru/archives/part.php?id=65007",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65007",
+        "retrieved": "https://web.archive.org/web/20250907022448id_/http://www.bards.ru/archives/part.php?id=65007"
+      }
+    },
+    {
+      "file": "songs/64957.html",
+      "source": "http://bards.ru/archives/part.php?id=64957",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64957",
+        "retrieved": "https://web.archive.org/web/20230423213234id_/http://www.bards.ru/archives/part.php?id=64957"
+      }
+    },
+    {
+      "file": "songs/64975.html",
+      "source": "http://bards.ru/archives/part.php?id=64975",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64975",
+        "retrieved": "https://web.archive.org/web/20250809054332id_/http://www.bards.ru/archives/part.php?id=64975"
+      }
+    },
+    {
+      "file": "songs/63261.html",
+      "source": "http://bards.ru/archives/part.php?id=63261",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63261",
+        "retrieved": "https://web.archive.org/web/20250813225824id_/http://www.bards.ru/archives/part.php?id=63261"
+      }
+    },
+    {
+      "file": "songs/64978.html",
+      "source": "http://bards.ru/archives/part.php?id=64978",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64978",
+        "retrieved": "https://web.archive.org/web/20260206193659id_/http://www.bards.ru/archives/part.php?id=64978"
+      }
+    },
+    {
+      "file": "songs/65694.html",
+      "source": "http://bards.ru/archives/part.php?id=65694",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65694",
+        "retrieved": "https://web.archive.org/web/20260504165647id_/http://bards.ru/archives/part.php?id=65694"
+      }
+    },
+    {
+      "file": "songs/64977.html",
+      "source": "http://bards.ru/archives/part.php?id=64977",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64977",
+        "retrieved": "https://web.archive.org/web/20260206195849id_/http://www.bards.ru/archives/part.php?id=64977"
+      }
+    },
+    {
+      "file": "songs/64976.html",
+      "source": "http://bards.ru/archives/part.php?id=64976",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64976",
+        "retrieved": "https://web.archive.org/web/20260511082536id_/http://www.bards.ru/archives/part.php?id=64976"
+      }
+    },
+    {
+      "file": "songs/65693.html",
+      "source": "http://bards.ru/archives/part.php?id=65693",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65693",
+        "retrieved": "https://web.archive.org/web/20260504165707id_/http://bards.ru/archives/part.php?id=65693"
+      }
+    },
+    {
+      "file": "songs/64979.html",
+      "source": "http://bards.ru/archives/part.php?id=64979",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64979",
+        "retrieved": "https://web.archive.org/web/20260209141956id_/http://www.bards.ru/archives/part.php?id=64979"
+      }
+    },
+    {
+      "file": "songs/65522.html",
+      "source": "http://bards.ru/archives/part.php?id=65522",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65522",
+        "retrieved": "https://web.archive.org/web/20260504165718id_/http://bards.ru/archives/part.php?id=65522"
+      }
+    },
+    {
+      "file": "songs/63263.html",
+      "source": "http://bards.ru/archives/part.php?id=63263",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63263",
+        "retrieved": "https://web.archive.org/web/20230422130634id_/http://www.bards.ru/archives/part.php?id=63263"
+      }
+    },
+    {
+      "file": "songs/63254.html",
+      "source": "http://bards.ru/archives/part.php?id=63254",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63254",
+        "retrieved": "https://web.archive.org/web/20230423235810id_/http://www.bards.ru/archives/part.php?id=63254"
+      }
+    },
+    {
+      "file": "songs/65441.html",
+      "source": "http://bards.ru/archives/part.php?id=65441",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65441",
+        "retrieved": "https://web.archive.org/web/20250217211340id_/http://bards.ru/archives/part.php?id=65441"
+      }
+    },
+    {
+      "file": "songs/63248.html",
+      "source": "http://bards.ru/archives/part.php?id=63248",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63248",
+        "retrieved": "https://web.archive.org/web/20230423095633id_/http://www.bards.ru/archives/part.php?id=63248"
+      }
+    },
+    {
+      "file": "songs/63255.html",
+      "source": "http://bards.ru/archives/part.php?id=63255",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63255",
+        "retrieved": "https://web.archive.org/web/20250910133837id_/http://bards.ru/archives/part.php?id=63255"
+      }
+    },
+    {
+      "file": "songs/64963.html",
+      "source": "http://bards.ru/archives/part.php?id=64963",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64963",
+        "retrieved": "https://web.archive.org/web/20230424040434id_/http://www.bards.ru/archives/part.php?id=64963"
+      }
+    },
+    {
+      "file": "songs/64966.html",
+      "source": "http://bards.ru/archives/part.php?id=64966",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64966",
+        "retrieved": "http://bards.ru/archives/part.php?id=64966"
+      }
+    },
+    {
+      "file": "songs/64995.html",
+      "source": "http://bards.ru/archives/part.php?id=64995",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64995",
+        "retrieved": "http://bards.ru/archives/part.php?id=64995"
+      }
+    },
+    {
+      "file": "songs/64959.html",
+      "source": "http://bards.ru/archives/part.php?id=64959",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64959",
+        "retrieved": "http://bards.ru/archives/part.php?id=64959"
+      }
+    },
+    {
+      "file": "songs/63242.html",
+      "source": "http://bards.ru/archives/part.php?id=63242",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63242",
+        "retrieved": "http://bards.ru/archives/part.php?id=63242"
+      }
+    },
+    {
+      "file": "songs/65471.html",
+      "source": "http://bards.ru/archives/part.php?id=65471",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65471",
+        "retrieved": "https://web.archive.org/web/20250913080135id_/http://www.bards.ru/archives/part.php?id=65471"
+      }
+    },
+    {
+      "file": "songs/65620.html",
+      "source": "http://bards.ru/archives/part.php?id=65620",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65620",
+        "retrieved": "https://web.archive.org/web/20241005180531id_/http://bards.ru/archives/part.php?id=65620"
+      }
+    },
+    {
+      "file": "songs/64993.html",
+      "source": "http://bards.ru/archives/part.php?id=64993",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64993",
+        "retrieved": "https://web.archive.org/web/20250811011049id_/http://www.bards.ru/archives/part.php?id=64993"
+      }
+    },
+    {
+      "file": "songs/65452.html",
+      "source": "http://bards.ru/archives/part.php?id=65452",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65452",
+        "retrieved": "http://bards.ru/archives/part.php?id=65452"
+      }
+    },
+    {
+      "file": "songs/63245.html",
+      "source": "http://bards.ru/archives/part.php?id=63245",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63245",
+        "retrieved": "http://bards.ru/archives/part.php?id=63245"
+      }
+    },
+    {
+      "file": "songs/64994.html",
+      "source": "http://bards.ru/archives/part.php?id=64994",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64994",
+        "retrieved": "http://bards.ru/archives/part.php?id=64994"
+      }
+    },
+    {
+      "file": "songs/64997.html",
+      "source": "http://bards.ru/archives/part.php?id=64997",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64997",
+        "retrieved": "https://web.archive.org/web/20241004134813id_/http://www.bards.ru/archives/part.php?id=64997"
+      }
+    },
+    {
+      "file": "songs/65436.html",
+      "source": "http://bards.ru/archives/part.php?id=65436",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65436",
+        "retrieved": "https://web.archive.org/web/20260504165900id_/http://bards.ru/archives/part.php?id=65436"
+      }
+    },
+    {
+      "file": "songs/65397.html",
+      "source": "http://bards.ru/archives/part.php?id=65397",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65397",
+        "retrieved": "https://web.archive.org/web/20260212160128id_/http://www.bards.ru/archives/part.php?id=65397"
+      }
+    },
+    {
+      "file": "songs/65393.html",
+      "source": "http://bards.ru/archives/part.php?id=65393",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65393",
+        "retrieved": "http://bards.ru/archives/part.php?id=65393"
+      }
+    },
+    {
+      "file": "songs/64964.html",
+      "source": "http://bards.ru/archives/part.php?id=64964",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64964",
+        "retrieved": "http://bards.ru/archives/part.php?id=64964"
+      }
+    },
+    {
+      "file": "songs/65289.html",
+      "source": "http://bards.ru/archives/part.php?id=65289",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65289",
+        "retrieved": "https://web.archive.org/web/20230423213232id_/http://www.bards.ru/archives/part.php?id=65289"
+      }
+    },
+    {
+      "file": "songs/65454.html",
+      "source": "http://bards.ru/archives/part.php?id=65454",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65454",
+        "retrieved": "https://web.archive.org/web/20260504165923id_/http://bards.ru/archives/part.php?id=65454"
+      }
+    },
+    {
+      "file": "songs/63244.html",
+      "source": "http://bards.ru/archives/part.php?id=63244",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63244",
+        "retrieved": "https://web.archive.org/web/20260213011425id_/http://www.bards.ru/archives/part.php?id=63244"
+      }
+    },
+    {
+      "file": "songs/65727.html",
+      "source": "http://bards.ru/archives/part.php?id=65727",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65727",
+        "retrieved": "https://web.archive.org/web/20260504165942id_/http://bards.ru/archives/part.php?id=65727"
+      }
+    },
+    {
+      "file": "songs/63265.html",
+      "source": "http://bards.ru/archives/part.php?id=63265",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63265",
+        "retrieved": "https://web.archive.org/web/20250323143118id_/http://www.bards.ru/archives/part.php?id=63265"
+      }
+    },
+    {
+      "file": "songs/63243.html",
+      "source": "http://bards.ru/archives/part.php?id=63243",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63243",
+        "retrieved": "https://web.archive.org/web/20250317014804id_/http://bards.ru/archives/part.php?id=63243"
+      }
+    },
+    {
+      "file": "songs/64982.html",
+      "source": "http://bards.ru/archives/part.php?id=64982",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64982",
+        "retrieved": "https://web.archive.org/web/20230423095634id_/http://www.bards.ru/archives/part.php?id=64982"
+      }
+    },
+    {
+      "file": "songs/64969.html",
+      "source": "http://bards.ru/archives/part.php?id=64969",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64969",
+        "retrieved": "https://web.archive.org/web/20250809193056id_/http://bards.ru/archives/part.php?id=64969"
+      }
+    },
+    {
+      "file": "songs/65045.html",
+      "source": "http://bards.ru/archives/part.php?id=65045",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65045",
+        "retrieved": "https://web.archive.org/web/20230424040428id_/http://www.bards.ru/archives/part.php?id=65045"
+      }
+    },
+    {
+      "file": "songs/65398.html",
+      "source": "http://bards.ru/archives/part.php?id=65398",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65398",
+        "retrieved": "https://web.archive.org/web/20250316213519id_/http://www.bards.ru/archives/part.php?id=65398"
+      }
+    },
+    {
+      "file": "songs/64958.html",
+      "source": "http://bards.ru/archives/part.php?id=64958",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64958",
+        "retrieved": "https://web.archive.org/web/20260419081431id_/http://www.bards.ru/archives/part.php?id=64958"
+      }
+    },
+    {
+      "file": "songs/64984.html",
+      "source": "http://bards.ru/archives/part.php?id=64984",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64984",
+        "retrieved": "https://web.archive.org/web/20230423235808id_/http://www.bards.ru/archives/part.php?id=64984"
+      }
+    },
+    {
+      "file": "songs/64967.html",
+      "source": "http://bards.ru/archives/part.php?id=64967",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64967",
+        "retrieved": "https://web.archive.org/web/20250803142804id_/http://www.bards.ru/archives/part.php?id=64967"
+      }
+    },
+    {
+      "file": "songs/65226.html",
+      "source": "http://bards.ru/archives/part.php?id=65226",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65226",
+        "retrieved": "https://web.archive.org/web/20250219130215id_/http://bards.ru/archives/part.php?id=65226"
+      }
+    },
+    {
+      "file": "songs/64980.html",
+      "source": "http://bards.ru/archives/part.php?id=64980",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64980",
+        "retrieved": "https://web.archive.org/web/20230424040434id_/http://www.bards.ru/archives/part.php?id=64980"
+      }
+    },
+    {
+      "file": "songs/64981.html",
+      "source": "http://bards.ru/archives/part.php?id=64981",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64981",
+        "retrieved": "https://web.archive.org/web/20240805163445id_/http://bards.ru/archives/part.php?id=64981"
+      }
+    },
+    {
+      "file": "songs/64965.html",
+      "source": "http://bards.ru/archives/part.php?id=64965",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64965",
+        "retrieved": "https://web.archive.org/web/20230422130638id_/http://www.bards.ru/archives/part.php?id=64965"
+      }
+    },
+    {
+      "file": "songs/64989.html",
+      "source": "http://bards.ru/archives/part.php?id=64989",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64989",
+        "retrieved": "https://web.archive.org/web/20230423235808id_/http://www.bards.ru/archives/part.php?id=64989"
+      }
+    },
+    {
+      "file": "songs/65004.html",
+      "source": "http://bards.ru/archives/part.php?id=65004",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65004",
+        "retrieved": "https://web.archive.org/web/20240812165336id_/http://www.bards.ru/archives/part.php?id=65004"
+      }
+    },
+    {
+      "file": "songs/65231.html",
+      "source": "http://bards.ru/archives/part.php?id=65231",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65231",
+        "retrieved": "https://web.archive.org/web/20230424045235id_/http://www.bards.ru/archives/part.php?id=65231"
+      }
+    },
+    {
+      "file": "songs/65122.html",
+      "source": "http://bards.ru/archives/part.php?id=65122",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65122",
+        "retrieved": "https://web.archive.org/web/20230424040430id_/http://www.bards.ru/archives/part.php?id=65122"
+      }
+    },
+    {
+      "file": "songs/65030.html",
+      "source": "http://bards.ru/archives/part.php?id=65030",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65030",
+        "retrieved": "https://web.archive.org/web/20230423213240id_/http://www.bards.ru/archives/part.php?id=65030"
+      }
+    },
+    {
+      "file": "songs/64974.html",
+      "source": "http://bards.ru/archives/part.php?id=64974",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64974",
+        "retrieved": "https://web.archive.org/web/20250908024809id_/http://bards.ru/archives/part.php?id=64974"
+      }
+    },
+    {
+      "file": "songs/63262.html",
+      "source": "http://bards.ru/archives/part.php?id=63262",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63262",
+        "retrieved": "https://web.archive.org/web/20230423235810id_/http://www.bards.ru/archives/part.php?id=63262"
+      }
+    },
+    {
+      "file": "songs/64955.html",
+      "source": "http://bards.ru/archives/part.php?id=64955",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64955",
+        "retrieved": "https://web.archive.org/web/20250322145735id_/http://www.bards.ru/archives/part.php?id=64955"
+      }
+    },
+    {
+      "file": "songs/65439.html",
+      "source": "http://bards.ru/archives/part.php?id=65439",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65439",
+        "retrieved": "https://web.archive.org/web/20250209205907id_/http://bards.ru/archives/part.php?id=65439"
+      }
+    },
+    {
+      "file": "songs/65181.html",
+      "source": "http://bards.ru/archives/part.php?id=65181",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65181",
+        "retrieved": "https://web.archive.org/web/20250214185119id_/http://bards.ru/archives/part.php?id=65181"
+      }
+    },
+    {
+      "file": "songs/65300.html",
+      "source": "http://bards.ru/archives/part.php?id=65300",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65300",
+        "retrieved": "https://web.archive.org/web/20260414191205id_/http://www.bards.ru/archives/part.php?id=65300"
+      }
+    },
+    {
+      "file": "songs/63246.html",
+      "source": "http://bards.ru/archives/part.php?id=63246",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63246",
+        "retrieved": "https://web.archive.org/web/20241006072345id_/http://bards.ru/archives/part.php?id=63246"
+      }
+    },
+    {
+      "file": "songs/64986.html",
+      "source": "http://bards.ru/archives/part.php?id=64986",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64986",
+        "retrieved": "https://web.archive.org/web/20260520104052id_/http://www.bards.ru/archives/part.php?id=64986"
+      }
+    },
+    {
+      "file": "songs/64968.html",
+      "source": "http://bards.ru/archives/part.php?id=64968",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64968",
+        "retrieved": "https://web.archive.org/web/20250913083402id_/http://www.bards.ru/archives/part.php?id=64968"
+      }
+    },
+    {
+      "file": "songs/64952.html",
+      "source": "http://bards.ru/archives/part.php?id=64952",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64952",
+        "retrieved": "https://web.archive.org/web/20230423095636id_/http://www.bards.ru/archives/part.php?id=64952"
+      }
+    },
+    {
+      "file": "songs/64961.html",
+      "source": "http://bards.ru/archives/part.php?id=64961",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64961",
+        "retrieved": "https://web.archive.org/web/20230424043727id_/http://www.bards.ru/archives/part.php?id=64961"
+      }
+    },
+    {
+      "file": "songs/65458.html",
+      "source": "http://bards.ru/archives/part.php?id=65458",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65458",
+        "retrieved": "https://web.archive.org/web/20250427130728id_/http://bards.ru/archives/part.php?id=65458"
+      }
+    },
+    {
+      "file": "songs/64970.html",
+      "source": "http://bards.ru/archives/part.php?id=64970",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64970",
+        "retrieved": "https://web.archive.org/web/20250316053616id_/http://bards.ru/archives/part.php?id=64970"
+      }
+    },
+    {
+      "file": "songs/64987.html",
+      "source": "http://bards.ru/archives/part.php?id=64987",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64987",
+        "retrieved": "http://bards.ru/archives/part.php?id=64987"
+      }
+    },
+    {
+      "file": "songs/65022.html",
+      "source": "http://bards.ru/archives/part.php?id=65022",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65022",
+        "retrieved": "http://bards.ru/archives/part.php?id=65022"
+      }
+    },
+    {
+      "file": "songs/65576.html",
+      "source": "http://bards.ru/archives/part.php?id=65576",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65576",
+        "retrieved": "https://web.archive.org/web/20250910055145id_/http://bards.ru/archives/part.php?id=65576"
+      }
+    },
+    {
+      "file": "songs/64990.html",
+      "source": "http://bards.ru/archives/part.php?id=64990",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64990",
+        "retrieved": "https://web.archive.org/web/20250422090913id_/http://bards.ru/archives/part.php?id=64990"
+      }
+    },
+    {
+      "file": "songs/64985.html",
+      "source": "http://bards.ru/archives/part.php?id=64985",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64985",
+        "retrieved": "https://web.archive.org/web/20250907183148id_/http://bards.ru/archives/part.php?id=64985"
+      }
+    },
+    {
+      "file": "songs/65288.html",
+      "source": "http://bards.ru/archives/part.php?id=65288",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65288",
+        "retrieved": "https://web.archive.org/web/20250219083928id_/http://bards.ru/archives/part.php?id=65288"
+      }
+    },
+    {
+      "file": "songs/64983.html",
+      "source": "http://bards.ru/archives/part.php?id=64983",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64983",
+        "retrieved": "http://bards.ru/archives/part.php?id=64983"
+      }
+    },
+    {
+      "file": "songs/65391.html",
+      "source": "http://bards.ru/archives/part.php?id=65391",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65391",
+        "retrieved": "https://web.archive.org/web/20250427122916id_/http://bards.ru/archives/part.php?id=65391"
+      }
+    },
+    {
+      "file": "songs/65232.html",
+      "source": "http://bards.ru/archives/part.php?id=65232",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65232",
+        "retrieved": "https://web.archive.org/web/20230422130634id_/http://www.bards.ru/archives/part.php?id=65232"
+      }
+    },
+    {
+      "file": "songs/64988.html",
+      "source": "http://bards.ru/archives/part.php?id=64988",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64988",
+        "retrieved": "https://web.archive.org/web/20250906045437id_/http://bards.ru/archives/part.php?id=64988"
+      }
+    },
+    {
+      "file": "songs/64954.html",
+      "source": "http://bards.ru/archives/part.php?id=64954",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64954",
+        "retrieved": "https://web.archive.org/web/20250907172145id_/http://bards.ru/archives/part.php?id=64954"
+      }
+    },
+    {
+      "file": "songs/65442.html",
+      "source": "http://bards.ru/archives/part.php?id=65442",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65442",
+        "retrieved": "https://web.archive.org/web/20241005001219id_/http://www.bards.ru/archives/part.php?id=65442"
+      }
+    },
+    {
+      "file": "songs/64972.html",
+      "source": "http://bards.ru/archives/part.php?id=64972",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64972",
+        "retrieved": "https://web.archive.org/web/20260519153629id_/http://www.bards.ru/archives/part.php?id=64972"
+      }
+    },
+    {
+      "file": "songs/65222.html",
+      "source": "http://bards.ru/archives/part.php?id=65222",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65222",
+        "retrieved": "http://bards.ru/archives/part.php?id=65222"
+      }
+    },
+    {
+      "file": "songs/63266.html",
+      "source": "http://bards.ru/archives/part.php?id=63266",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=63266",
+        "retrieved": "http://bards.ru/archives/part.php?id=63266"
+      }
+    },
+    {
+      "file": "songs/65221.html",
+      "source": "http://bards.ru/archives/part.php?id=65221",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=65221",
+        "retrieved": "http://bards.ru/archives/part.php?id=65221"
+      }
+    },
+    {
+      "file": "songs/64996.html",
+      "source": "http://bards.ru/archives/part.php?id=64996",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64996",
+        "retrieved": "https://web.archive.org/web/20250217104609id_/http://bards.ru/archives/part.php?id=64996"
+      }
+    },
+    {
+      "file": "songs/64953.html",
+      "source": "http://bards.ru/archives/part.php?id=64953",
+      "retrieval": {
+        "original": "http://bards.ru/archives/part.php?id=64953",
+        "retrieved": "https://web.archive.org/web/20250219080544id_/http://bards.ru/archives/part.php?id=64953"
+      }
+    }
+  ],
+  "assets": {
+    "http://bards.ru/css/main.css": {
+      "path": "assets/css/main.css",
+      "source": "https://web.archive.org/web/20241031130148id_/http://www.bards.ru/css/main.css",
+      "bytes": 2626
+    },
+    "http://bards.ru/css/part.css": {
+      "path": "assets/css/part.css",
+      "source": "https://web.archive.org/web/20241127153940id_/http://www.bards.ru/css/part.css",
+      "bytes": 1581
+    },
+    "http://bards.ru/img/Logo_bards_ru_elips_small.jpg": {
+      "path": "assets/img/Logo_bards_ru_elips_small.jpg",
+      "source": "http://bards.ru/img/Logo_bards_ru_elips_small.jpg",
+      "bytes": 23312
+    },
+    "http://bards.ru/img/STRINGS.gif": {
+      "path": "assets/img/STRINGS.gif",
+      "source": "https://web.archive.org/web/20241031130149id_/http://www.bards.ru/img/STRINGS.gif",
+      "bytes": 769
+    },
+    "http://bards.ru/img/logo.gif": {
+      "path": "assets/img/logo.gif",
+      "source": "https://web.archive.org/web/20241031130148id_/http://www.bards.ru/img/logo.gif",
+      "bytes": 1999
+    },
+    "http://bards.ru/img/logo_elcom-tele.com_130x34.jpg": {
+      "path": "assets/img/logo_elcom-tele.com_130x34.jpg",
+      "source": "http://bards.ru/img/logo_elcom-tele.com_130x34.jpg",
+      "bytes": 9574
+    },
+    "http://bards.ru/img/look.gif": {
+      "path": "assets/img/look.gif",
+      "source": "https://web.archive.org/web/20241031130145id_/http://www.bards.ru/img/look.gif",
+      "bytes": 232
+    },
+    "http://bards.ru/img/note.gif": {
+      "path": "assets/img/note.gif",
+      "source": "https://web.archive.org/web/20241031130143id_/http://www.bards.ru/img/note.gif",
+      "bytes": 88
+    },
+    "http://bards.ru/img/spacer.gif": {
+      "path": "assets/img/spacer.gif",
+      "source": "http://bards.ru/img/spacer.gif",
+      "bytes": 67
+    },
+    "http://bards.ru/img/textok.gif": {
+      "path": "assets/img/textok.gif",
+      "source": "http://bards.ru/img/textok.gif",
+      "bytes": 725
+    },
+    "http://bards.ru/img/textok_author.gif": {
+      "path": "assets/img/textok_author.gif",
+      "source": "https://web.archive.org/web/20241031130149id_/http://www.bards.ru/img/textok_author.gif",
+      "bytes": 67
+    },
+    "http://bards.ru/img/textok_source.gif": {
+      "path": "assets/img/textok_source.gif",
+      "source": "https://web.archive.org/web/20241031130149id_/http://www.bards.ru/img/textok_source.gif",
+      "bytes": 67
+    },
+    "http://bards.ru/photos/persons/new/1857.jpg": {
+      "path": "assets/photos/persons/new/1857.jpg",
+      "source": "http://bards.ru/photos/persons/new/1857.jpg",
+      "bytes": 19344
+    },
+    "http://bards.ru/yp-logo.gif": {
+      "path": "assets/yp-logo.gif",
+      "source": "http://bards.ru/yp-logo.gif",
+      "bytes": 420
+    },
+    "http://bards.ru/yp-search.gif": {
+      "path": "assets/yp-search.gif",
+      "source": "https://web.archive.org/web/20241031130150id_/http://www.bards.ru/yp-search.gif",
+      "bytes": 587
+    },
+    "http://bards.ru/img/style2.jpg": {
+      "path": "assets/img/style2.jpg",
+      "source": "https://web.archive.org/web/20241120050407id_/http://www.bards.ru/img/style2.jpg",
+      "bytes": 2213
+    }
+  }
+}
